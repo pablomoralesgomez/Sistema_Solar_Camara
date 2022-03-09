@@ -19,3 +19,8 @@ Para gestionar los movimientos de esta cámara (que en el código recibe la deno
 Debemos añadir que en lo relativo al movimiento, una vez se pare de mover la embarcación hacia adelante o hacia detrás, la "nave aeroespacial" no se detendrá automáticamente, en cambio, avanzará un corto espacio simulando ligeramente la inercia que sufriría uno de estos aparatos en la realidad. Además, hemos añadido que cuando se visualice el plano general de los planetas se muestre un cubo blanco en la posición en la que hemos dejado la nave para que el usuario pueda hacerse una idea de a que altura dejó el plano subjetivo. Inicialmente, en el plano general no se podrá apreciar el cubo, ya que la posición de partida de la cámara subjetiva es la misma que la del plano general, por este motivo no se puede observar (no esta aún dentro del plano general).  
 
 Finalmente, se ha decidido añadir un menú de pausa donde se muestran los controles de los que dispone la aplicación (se debe pulsar la tecla **H**), además de un mensaje que indica como acceder a él junto con otro que nos recuerda en que modo de cámara nos encontramos.
+
+
+## Previsualización de la Aplicación
+
+<p align="center"> <img src="animacion.gif" alt="gif animado" /> </p>
