@@ -1,5 +1,11 @@
 # Sistema Solar Camara
 
+Autor: Pablo Morales Gómez
+
+Asignatura: Creando Interfaces de Usuario
+
+Curso: 4º
+
 ## Introducción
 
 En este trabajo hemos tomado como base el proyecto hecho con anterioridad donde, valiéndonos de las rotaciones, traslaciones y escalados que nos proporciona processing, construimos un pequeño sistema solar con sus planetas girando entorno a una estrella y algunos de ellos con sus propios satelites orbitando a su vez alrededor de ellos. Partiendo de este punto, hemos incorporado la opción de cambiar la cámara que se usa para visualizar el conjunto.
